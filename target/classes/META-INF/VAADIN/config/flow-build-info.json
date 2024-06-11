@@ -1,0 +1,17 @@
+{
+  "productionMode": false,
+  "eagerServerLoad": false,
+  "npmFolder": "C:\\Users\\samue\\Desktop\\my-app",
+  "node.version": "v20.11.1",
+  "node.download.root": "https://nodejs.org/dist/",
+  "frontendFolder": "C:\\Users\\samue\\Desktop\\my-app\\frontend",
+  "connect.javaSourceFolder": "C:\\Users\\samue\\Desktop\\my-app\\src\\main\\java",
+  "javaResourceFolder": "C:\\Users\\samue\\Desktop\\my-app\\src\\main\\resources",
+  "connect.applicationProperties": "C:\\Users\\samue\\Desktop\\my-app\\src\\main\\resources\\application.properties",
+  "connect.openApiFile": "C:\\Users\\samue\\Desktop\\my-app\\target\\generated-resources\\openapi.json",
+  "project.frontend.generated": "C:\\Users\\samue\\Desktop\\my-app\\frontend\\generated",
+  "pnpm.enable": false,
+  "bun.enable": false,
+  "require.home.node": false,
+  "build.folder": "target"
+}
